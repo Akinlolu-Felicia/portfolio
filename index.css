@@ -534,8 +534,7 @@ transform-origin: 70% 70%;
 /* Header Responsiveness */
 .header {
     padding: 1.5rem 1rem;
-  flex-direction: column;
-  align-items: flex-start;
+  align-items: space-between;
 }
 
 #hero-content-wrapper {
