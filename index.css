@@ -576,7 +576,7 @@ aspect-ratio: 1/1;
 @media (max-width: 600px) {
   .header {
     align-items: flex-start;
-    gap: 0.8rem;
+    gap: 0.5rem;
   }
 
   .nav {
