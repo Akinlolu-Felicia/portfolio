@@ -533,7 +533,7 @@ transform-origin: 70% 70%;
 @media (max-width: 768px) {
 /* Header Responsiveness */
 .header {
-    padding: 1.5rem 1rem;
+    padding: 0.5rem 1rem;
   align-items: space-between;
 }
 
@@ -581,7 +581,7 @@ aspect-ratio: 1/1;
     font-size: 1.2rem;
 }
 }
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .header {
     align-items: flex-start;
     gap: 0.5rem;
@@ -592,4 +592,4 @@ aspect-ratio: 1/1;
     gap: 0.5rem;
     font-size: 0.7rem;
   }
-}
+} */
