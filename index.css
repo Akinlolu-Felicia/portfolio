@@ -541,6 +541,7 @@ transform-origin: 70% 70%;
     grid-template-columns: 1fr; 
     text-align: center;
     justify-items: center;
+  padding: 0.5rem;
 }
     #intro{
     text-align: center; 
