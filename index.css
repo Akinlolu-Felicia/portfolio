@@ -401,6 +401,7 @@ text-align: left;
 background: var(--card-bg);
 border-radius: 1.5rem;
 padding: 2rem;
+text-align: justify;
 box-shadow: none;
 transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
